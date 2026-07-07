@@ -2,7 +2,7 @@
 
 Tools to infer **galaxy cluster masses** from spectroscopic radius–velocity phase space via the **escape-velocity edge**, with a calibrated suppression factor $Z_v$ that corrects for sparse sampling. The workflow follows the methodology in **Rodriguez et al. (2025)** and includes an end-to-end example using **HeCS / HeCS-SZ** spectroscopy (Rines et al. 2013; Rines et al. 2016; >40,000 galaxies).
 
-> **Please cite:** Rodriguez et al. (2025), *Concordance of Weak Lensing and Escape Velocity Cluster Masses*, ApJ:995.213
+> **Please cite:** [Rodriguez et al. (2025), *Concordance of Weak Lensing and Escape Velocity Cluster Masses*, ApJ:995.213](https://iopscience.iop.org/article/10.3847/1538-4357/ae18ce)
 
 ---
 
@@ -191,7 +191,7 @@ The example uses spectroscopic members from **HeCS** and **HeCS-SZ** (Rines et a
 
 If you use this library or its results, please cite the arxiv link, or ApJ Submission (under review):
 
-- **Rodriguez et al. (2025)** — *Concordance of Weak Lensing and Escape Velocity Cluster Masses*, **arXiv:2507.20938**.
+- **Rodriguez et al. (2025)** — *Concordance of Weak Lensing and Escape Velocity Cluster Masses*, **ApJ:995.213**.
 
 
 ---
