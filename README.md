@@ -189,9 +189,7 @@ The example uses spectroscopic members from **HeCS** and **HeCS-SZ** (Rines et a
 
 ## Citation
 
-If you use this library or its results, please cite the arxiv link, or ApJ Submission (under review):
-
-- **Rodriguez et al. (2025)** — *Concordance of Weak Lensing and Escape Velocity Cluster Masses*, **ApJ:995.213**.
+If you use this library or its results, please cite [Rodriguez et al. (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/ae18ce).
 
 
 ---
